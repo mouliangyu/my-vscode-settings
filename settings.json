@@ -1,0 +1,53 @@
+{
+    "breadcrumbs.enabled": true,
+    "editor.renderControlCharacters": true,
+    "editor.renderWhitespace": "all",
+    "remote.SSH.path": "D:\\Git\\usr\\bin\\ssh",
+    "remote.SSH.showLoginTerminal": true,
+    "files.associations": {
+        "*.js": "javascript",
+        "*.make": "makefile",
+        "Makefile2": "makefile",
+        "*.cmake": "cmake",
+        "*.pyx": "python"
+    },
+    "editor.largeFileOptimizations": false,
+    "remote.SSH.enableDynamicForwarding": true,
+    "remote.SSH.enableAgentForwarding": true,
+    "git.ignoreLegacyWarning": true,
+    "gitlens.advanced.messages": {
+        "suppressGitVersionWarning": true
+    },
+    "diffEditor.ignoreTrimWhitespace": true,
+    "[cpp]": {
+        "editor.defaultFormatter": "ms-vscode.cpptools"
+    },
+    "editor.tabSize": 2,
+    "editor.acceptSuggestionOnEnter": "off",
+    "markdown-pdf.styles": [
+        "C:\\Program Files\\Microsoft VS Code\\resources\\app\\extensions\\markdown-language-features\\media\\markdown.css"
+    ],
+    "markdown.preview.fontFamily": "-apple-system, BlinkMacSystemFont,'Microsoft YaHei' ,'Segoe WPC', 'Segoe UI', 'Ubuntu', 'Droid Sans', sans-serif",
+    "update.mode": "none",
+    "extensions.autoUpdate": false,
+    "extensions.autoCheckUpdates": true,
+    "window.zoomLevel": 0,
+    "workbench.colorCustomizations": {
+        "editor.selectionHighlightBackground": "#1e90ff55",
+        "editor.selectionForeground": "#1e90ff55",
+        "editor.selectionBackground": "#1e90ff99",
+        "editor.findMatchHighlightBackground": "#1e90ff55",
+        "editor.findMatchForeground": "#1e90ff55",
+        "editor.findMatchBackground": "#1e90ff99"
+    },
+    "C_Cpp.default.cStandard": "c11",
+    "scoper.highlightColor": "#808a8733",
+    "editor.fontFamily": "Consolas, 'Microsoft YaHei', 'Courier New', monospace",
+    "cmake.configureOnOpen": false,
+    "vim.hlsearch": true,
+    "vim.overrideCopy": false,
+    "vim.useCtrlKeys": false,
+    "C_Cpp.intelliSenseCacheSize": 51200,
+    "workbench.editor.enablePreview": false,
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
+}
